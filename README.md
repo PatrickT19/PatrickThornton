@@ -4,7 +4,7 @@
 
 ## Projects
 **Forecasting Bike Sharing Trends**
-[Publication](https://github.com/PatrickT19/patrickt.github.io/tree/0670814973ce45820ed15f8be838ec8701870ae3/Computational%20Mathematics%20Capstone)
+[Project](https://github.com/PatrickT19/patrickt.github.io/tree/0670814973ce45820ed15f8be838ec8701870ae3/Computational%20Mathematics%20Capstone)
 
 ## Education
 - M.S., Applied Data Science    University of Michigan (_December 2023_)
