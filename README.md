@@ -12,7 +12,7 @@
 - Managed projects to deploy partnerships with external partners. 
 - Consulted partners on external calls, and to internal leadership.
 
-### Operations Analyst  
+**Operations Analyst**  
 **Ally Bank**  
 (_May 2018 - Aug. 2018_)  
 - Developed visuals using Python, ServiceNow, and Power BI to act as an incident dashboard for our key services and software.
@@ -34,6 +34,6 @@
 
 ## Education
 - M.S., Applied Data Science
-University of Michigan (_December 2023_)
-- B.S., Computer Science|Michigan State University (_May 2019_)
-- B.S., Computational Mathematics    Michigan State University (_May 2019_)
+  _University of Michigan (December 2023)_
+- B.S., Computer Science | Michigan State University (_May 2019_)
+- B.S., Computational Math|Michigan State University (_May 2019_)
