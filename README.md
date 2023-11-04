@@ -40,6 +40,9 @@
 ### Propensity to Close from Pre-Approval Letter
 
 ## Education
-- M.S., Applied Data Science | University of Michigan (_December 2023_)
-- B.S., Computer Science | Michigan State University (_May 2019_)
-- B.S., Computational Math | Michigan State University (_May 2019_)
+- M.S., Applied Data Science |
+   University of Michigan (_December 2023_)
+- B.S., Computer Science |
+   Michigan State University (_May 2019_)
+- B.S., Computational Math |
+   Michigan State University (_May 2019_)
