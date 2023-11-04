@@ -27,8 +27,12 @@
 
 ## Projects
 ### Multi-Model Basketball Analytics
+- Trained in AWS EC2 Cluster to predicted outcome of NCAA basketball march madness games.
+•	Methodically compared different model post hyper-parameter tuning and feature engineering. 
 
 ### Song Genre Classification
+- Classified song genre using Scikit-Learn Models and neural network variations include in CNN and RNN on MIDI files.
+- Detected emotions using LDA and NMF clusters.
 
 ### Visualizing Data Science in the Modern Day
 
@@ -36,8 +40,13 @@
 [Project](https://github.com/PatrickT19/patrickt.github.io/tree/0670814973ce45820ed15f8be838ec8701870ae3/Computational%20Mathematics%20Capstone)
 
 ### Feature Recognition for Autonomous Vehicle Testing
+- Employed TensorFlow’s software to train a deep learning model to recognize and annotate raw traffic video.
+- Collaborated with team members and Aptiv employees.
+- Presented work to Aptiv project managers and engineers.
 
 ### Propensity to Close from Pre-Approval Letter
+- Forecasted loan closings based on data available at approval letter to inform decisions on continuing partnerships.
+- Created using data drawn from AWS and Python.
 
 ## Education
 - M.S., Applied Data Science |
