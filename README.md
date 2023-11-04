@@ -1,6 +1,6 @@
-## Work Experience
-### Data Analyst – _Partnerships; Marketing_
-**Rocket Mortgage** 
+# Work Experience
+## Data Analyst – _Partnerships; Marketing_
+### Rocket Mortgage
 (_Jan 2020 - Aug. 2023_)
 - Led and advised on several external partnerships and internal marketing campaigns. 
 - Provided data and insights that informed the validity of continuing our business endeavors.
@@ -33,7 +33,7 @@
 [Project](https://github.com/PatrickT19/patrickt.github.io/tree/0670814973ce45820ed15f8be838ec8701870ae3/Computational%20Mathematics%20Capstone)
 
 ## Education
-- M.S., Applied Data Science
+- M.S., Applied Data Science  
   _University of Michigan (December 2023)_
 - B.S., Computer Science | Michigan State University (_May 2019_)
 - B.S., Computational Math|Michigan State University (_May 2019_)
