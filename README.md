@@ -1,7 +1,6 @@
-# Work Experience
-## Data Analyst – _Partnerships; Marketing_
-### Rocket Mortgage
-(_Jan 2020 - Aug. 2023_)
+## Work Experience
+### Data Analyst – _Partnerships; Marketing_
+**Rocket Mortgage** | (_Jan 2020 - Aug. 2023_)
 - Led and advised on several external partnerships and internal marketing campaigns. 
 - Provided data and insights that informed the validity of continuing our business endeavors.
 - Composed analyses using SQL, Salesforce, and Power BI to monitor and optimize existing processes.
@@ -35,5 +34,7 @@
 ## Education
 - M.S., Applied Data Science  
   _University of Michigan (December 2023)_
-- B.S., Computer Science | Michigan State University (_May 2019_)
-- B.S., Computational Math|Michigan State University (_May 2019_)
+- B.S., Computer Science |
+  _Michigan State University (May 2019)_
+- B.S., Computational Mathematics
+  |_Michigan State University (May 2019)_
