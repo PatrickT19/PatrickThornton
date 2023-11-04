@@ -30,7 +30,7 @@
 
 ### Song Genre Classification
 
-### 
+### Visualizing Data Science in the Modern Day
 
 ### Forecasting Bike Sharing Trends
 [Project](https://github.com/PatrickT19/patrickt.github.io/tree/0670814973ce45820ed15f8be838ec8701870ae3/Computational%20Mathematics%20Capstone)
@@ -40,7 +40,9 @@
 ### Propensity to Close from Pre-Approval Letter
 
 ## Education
-- M.S., Applied Data Science | University of Michigan (_December 2023_)
+- M.S., Applied Data Science |
+  University of Michigan (_December 2023_)
 - B.S., Computer Science |
   Michigan State University (_May 2019_)
-- B.S., Computational Mathematics | Michigan State University (_May 2019_)
+- B.S., Computational Mathematics |
+  Michigan State University (_May 2019_)
