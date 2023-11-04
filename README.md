@@ -1,6 +1,6 @@
 ## Work Experience
 ### Data Analyst – _Partnerships; Marketing_
-**Rocket Mortgage**
+**Rocket Mortgage** 
 (_Jan 2020 - Aug. 2023_)
 - Led and advised on several external partnerships and internal marketing campaigns. 
 - Provided data and insights that informed the validity of continuing our business endeavors.
@@ -13,7 +13,7 @@
 - Consulted partners on external calls, and to internal leadership.
 
 ### Operations Analyst  
-#### **Ally Bank**  
+**Ally Bank**  
 (_May 2018 - Aug. 2018_)  
 - Developed visuals using Python, ServiceNow, and Power BI to act as an incident dashboard for our key services and software.
 - Coordinated incident recoveries through working with technology and business leadership.
@@ -21,7 +21,7 @@
 - Prepared raw data files to be adaptable in varying environments.
 
 ### Project Manager; GIS Information Technologist Assistant  
-#### **Michigan State Uni. Infrastructure Planning and Facilities**  
+**Michigan State University**  
 (_May 2018 - Aug. 2018_)  
 - Designed and maintained graphic representations of Geographic Information Systems (GIS).
 - Liaison for Michigan State’s MISS DIG department and contractors regarding GIS/utility information around the campus of MSU.
@@ -33,6 +33,7 @@
 [Project](https://github.com/PatrickT19/patrickt.github.io/tree/0670814973ce45820ed15f8be838ec8701870ae3/Computational%20Mathematics%20Capstone)
 
 ## Education
-- M.S., Applied Data Science | University of Michigan (_December 2023_)
+- M.S., Applied Data Science
+University of Michigan (_December 2023_)
 - B.S., Computer Science|Michigan State University (_May 2019_)
 - B.S., Computational Mathematics    Michigan State University (_May 2019_)
