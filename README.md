@@ -1,6 +1,6 @@
 ## Work Experience
-### Data Analyst – _Partnerships; Marketing_ 
-**Rocket Mortgage**
+### Data Analyst – _Partnerships; Marketing_ <br>
+#### **Rocket Mortgage**
 (_Jan 2020 - Aug. 2023_)
 •	Led and advised on several external partnerships and internal marketing campaigns. 
 •	Provided data and insights that informed the validity of continuing our business endeavors.
@@ -12,16 +12,16 @@
 •	Managed projects to deploy partnerships with external partners. 
 •	Consulted partners on external calls, and to internal leadership.
 
-### Operations Analyst 
-**Ally Bank** 
-(_May 2018 - Aug. 2018_)
-•	Developed visuals using Python, ServiceNow, and Power BI to act as an incident dashboard for our key services and software.
-•	Coordinated incident recoveries through working with technology and business leadership.
-•	Tested applications by creating scripts to simulate user activity.
-•	Prepared raw data files to be adaptable in varying environments.
+### Operations Analyst  
+#### **Ally Bank**  
+(_May 2018 - Aug. 2018_)  
+- Developed visuals using Python, ServiceNow, and Power BI to act as an incident dashboard for our key services and software.
+- Coordinated incident recoveries through working with technology and business leadership.
+- Tested applications by creating scripts to simulate user activity.
+- Prepared raw data files to be adaptable in varying environments.
 
 ### Project Manager; GIS Information Technologist Assistant 
-**Michigan State Uni. Infrastructure Planning and Facilities**
+#### **Michigan State Uni. Infrastructure Planning and Facilities**
 (_May 2018 - Aug. 2018_)
 •	Designed and maintained graphic representations of Geographic Information Systems (GIS).
 •	Liaison for Michigan State’s MISS DIG department and contractors regarding GIS/utility information around the campus of MSU.
