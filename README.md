@@ -26,15 +26,16 @@
 
 
 ## Projects
-### Multi-Model Basketball Analytics
-- Trained in AWS EC2 Cluster to predicted outcome of NCAA basketball march madness games.
-•	Methodically compared different model post hyper-parameter tuning and feature engineering. 
-
 ### Song Genre Classification
-- Classified song genre using Scikit-Learn Models and neural network variations include in CNN and RNN on MIDI files.
-- Detected emotions using LDA and NMF clusters.
+[Project](https://github.com/PatrickT19/PatrickThornton/tree/d316f5c3fa911e11bc28bc1218ca528c95d4af15/Song%20Genre%20Classification)
+In this project we explore the capabilities of differnt model types in capturing element of a song including their genre, lyrical topics, and emotions. To start we look at the differnt Scikit-Learn classifcation models trained on high level song features. These model types include Naive Bayes, Stocastic Gradient Descent, Logistic Regression, Support Vector Machine, Gradient Boost, and Random Forest. After arriving at our best model through feature engineering and hyper parameter tuning, we compare these models witha novel appraoch using nerual netrworks. For our neural network calssifier, we convertied Musical Instrument Digital Interface (MIDI) files into a heart matrix where x and y are the key and time stamp respectivly, and the intensity provides the color. From here we run a Convolutional neural network over the matrix to train the model for genre identification.
+
+Running parallel to our supervised learning appraochins, we developed a semi-supervised, and a unsupervised model. The semi-supervised model aimed at classifying the emotions conveyed by a song's MIDI matrix. To do this we first had to assign emotions to songs which was done by using Google LLM Flan-T5 to identify emotions in a songs lyric set. One the songs were assigned emotions, we trained CNN on the MIDI matix. Topic detection was the last experiment conducted in this project. To identify topics, we tried an applied a Latent Dirichlet Allocation, and a Negative Matrix Factorization moedel to a set of word embeddings representing a songs lyric set.
 
 ### Visualizing Data Science in the Modern Day
+[Project](https://github.com/PatrickT19/PatrickThornton/tree/d316f5c3fa911e11bc28bc1218ca528c95d4af15/Visualizing%20Data%20Science%20in%20the%20Modern%20Day)
+
+
 
 ### Forecasting Bike Sharing Trends
 [Project](https://github.com/PatrickT19/patrickt.github.io/tree/0670814973ce45820ed15f8be838ec8701870ae3/Computational%20Mathematics%20Capstone)
@@ -43,6 +44,11 @@
 - Employed TensorFlow’s software to train a deep learning model to recognize and annotate raw traffic video.
 - Collaborated with team members and Aptiv employees.
 - Presented work to Aptiv project managers and engineers.
+
+### Multi-Model Basketball Analytics
+[Project (PDF Only)](https://github.com/PatrickT19/PatrickThornton/tree/d316f5c3fa911e11bc28bc1218ca528c95d4af15/Multi%20Model%20Sports%20Analysis)
+- Trained in AWS EC2 Cluster to predicted outcome of NCAA basketball march madness games.
+-	Methodically compared different model post hyper-parameter tuning and feature engineering. 
 
 ### Propensity to Close from Pre-Approval Letter
 - Forecasted loan closings based on data available at approval letter to inform decisions on continuing partnerships.
