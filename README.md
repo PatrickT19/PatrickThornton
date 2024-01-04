@@ -27,6 +27,7 @@
 
 ## Projects
 ### Refugee Resettlement
+[Project](https://github.com/PatrickT19/PatrickThornton/tree/de0b292bc166d4e2e483aa0ddb21587dee91826c/Refugee%20Resettlement)
 Using the Office of Refugee Resettlement's (ORR) data obtained from their annual survey of refugees, we conducted an analysis to understand what makes a resettlement successful and built a few models to identify patterns and inform resettlement strategy. While the ORR did considerable work filling in missing information, the nature of survey data meant that a large chunk of the project still had to be dedicated to imputing and combining data in such a way that it didn't have statistical impact. Once the dataset was complete, we visualize it to help identify any trends that are worth looking into ahead of modeling. Finally, we developed two unsupervised and supervised models, restricting one of each type to only using data available at time of resettlement. This approach allowed us to develop strategies to improve on resettlement success rate, along with understanding some common characteristics after resettling among refugees that we classified as having a successful resettlement.
 
 ### Song Genre Classification
