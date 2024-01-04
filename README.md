@@ -37,7 +37,7 @@ Running parallel to our supervised learning approaches, we developed a semi-supe
 More representative of a data analytics report, this project focuses on showcasing data collection, cleaning, processing, and visualizing techniques in Python. Utilizing data on computer science related publications, this project tells a story about how universities and companies in different countries have been expanding their commitment to publishing papers on data science related topics. Digging deeper, we look at what model types and techniques these organizations have been focusing on over the past several years. Expanding the focus of the project, we look at how industry of data science has changed over time. This portion of the project uses data from an annual survey Kaggle puts out to professionals in the field. The survey has several reoccurring questions but required significant processing to be usable for an analysis. Once processed, the data was used to show how the industry of data science has grown globally over the last half decade, and what sort of skills professionals’ feel are the most important to be successful in the field. Both topics are displayed visually through the use of several python packages including matplotlib, plotly, altair, geopandas, ipywidgets, and wordcloud.
 
 ### Forecasting Bike Sharing Trends
-[Project](hhttps://github.com/PatrickT19/PatrickThornton/tree/c96b03ac28848aa296ffc932f413d2615bac11fb/Computational%20Mathematics%20Capstone)  
+[Project](https://github.com/PatrickT19/PatrickThornton/tree/57a57ea57e1d4aa031ef51d96285b3d989e729ab/Computational%20Mathematics%20Capstone)  
 Companies reliant on seasonal trends such as ice cream shops, cider mills, and bike rental shops are at the mercy of the weather when it comes to their patronage. Using weather conditions gathered from previous years, this project is centered around building a model to predict customer volume on a given day for a bike rental store. To make this prediction two models were created, one being a random forest regressor, and the other a linear regressor. The performance of these models is evaluated using Root Mean Squared Error (RMSE), along with three correlation metrics: Pearson, Spearman, and Kendal Tau.
 
 ### Feature Recognition for Autonomous Vehicle Testing
@@ -46,7 +46,7 @@ Companies reliant on seasonal trends such as ice cream shops, cider mills, and b
 - Presented work to Aptiv project managers and engineers.
 
 ### Multi-Model Basketball Analytics
-[Project (PDF Only)](https://github.com/PatrickT19/PatrickThornton/tree/573fecb3ddd771f13af453e13e7e90ea6aab4792/Multi%20Model%20Sports%20Analysis)  
+[Project (PDF Only)](https://github.com/PatrickT19/PatrickThornton/tree/573fecb3ddd771f13af453e13e7e90ea6aab4792/Multi%20Model%20Sports%20Analysis)(https://github.com/PatrickT19/PatrickThornton/tree/57a57ea57e1d4aa031ef51d96285b3d989e729ab/Multi%20Model%20Sports%20Analysis)  
 - Trained in AWS EC2 Cluster to predicted outcome of NCAA basketball march madness games.
 -	Methodically compared different model post hyper-parameter tuning and feature engineering. 
 
