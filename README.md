@@ -54,7 +54,7 @@ Companies reliant on seasonal trends such as ice cream shops, cider mills, and b
 - Presented work to Aptiv project managers and engineers.
 
 ### Multi-Model Basketball Analytics
-[Project (PDF Only)](https://github.com/PatrickT19/PatrickThornton/tree/573fecb3ddd771f13af453e13e7e90ea6aab4792/Multi%20Model%20Sports%20Analysis)
+[Project (PDF Only)](https://github.com/PatrickT19/PatrickThornton/tree/538d0161b755149c1c2e5e237744cd9f9556511b/Multi%20Model%20Sports%20Analysis)
 - Trained in AWS EC2 Cluster to predicted outcome of NCAA basketball march madness games.
 -	Methodically compared different model post hyper-parameter tuning and feature engineering. 
 
